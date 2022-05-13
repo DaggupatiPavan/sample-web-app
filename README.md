@@ -4,7 +4,7 @@
 
 
 ```
-mvn clean package java
+mvn clean package dummy
 and build the instruction .
 ```
 
