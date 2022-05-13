@@ -4,7 +4,7 @@
 
 
 ```
-mvn clean package pavan
+mvn clean package
 and build the instruction .
 ```
 
