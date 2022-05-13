@@ -4,7 +4,7 @@
 
 
 ```
-mvn clean package
+mvn clean package freestyle
 and build the instruction .
 ```
 
