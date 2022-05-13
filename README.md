@@ -4,7 +4,7 @@
 
 
 ```
-mvn clean package freestyle
+mvn clean package java
 and build the instruction .
 ```
 
