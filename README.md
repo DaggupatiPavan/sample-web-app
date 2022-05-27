@@ -4,7 +4,7 @@
 
 
 ```
-mvn clean package adding new line here
+mvn clean package adding
 and build the instruction .
 ```
 
