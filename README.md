@@ -4,7 +4,7 @@
 
 
 ```
-mvn clean package new editing
+mvn clean package new dancing
 and build the instruction .
 ```
 
